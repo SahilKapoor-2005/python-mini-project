@@ -1,0 +1,1 @@
+Samurai's Journey is a text-based adventure where you play a young samurai on a quest to restore your clan’s honor. Face challenges, make critical choices, and navigate branching paths leading to victory or defeat in a world of danger and mystery.
